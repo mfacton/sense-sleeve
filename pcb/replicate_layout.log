@@ -1,0 +1,147 @@
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'linux'
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]'
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.4-8.0.4-0~ubuntu24.04.1
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.3
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x72a5349fbe30>
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U1 as a reference
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U1'
+Located on: ['Sensor1']
+With filenames: ['sensor.kicad_sch']
+With sheet_id:['Sensor1']
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U5', ['Sensor5']), ('U4', ['Sensor4']), ('U3', ['Sensor3']), ('U2', ['Sensor2']), ('U1', ['Sensor1'])]
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'Sensor1', file:'sensor.kicad_sch'
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['Sensor2'], ['Sensor3'], ['Sensor4'], ['Sensor5']]
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['Sensor1']
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(3606, 609)
+09-02 19:28:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(3167, 609)
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'Sensor1', file:'sensor.kicad_sch'
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['Sensor2'], ['Sensor3'], ['Sensor4'], ['Sensor5']]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 288:Starting replication of sheets: [['Sensor2'], ['Sensor3'], ['Sensor4'], ['Sensor5']]
+on level: ['Sensor1']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+09-02 19:28:38 root 332:updating GUI message: 'Preparing for replication'
+09-02 19:28:38 root 337:updating GUI with: 0
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of source footprints
+09-02 19:28:38 root 337:updating GUI with: 0
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 368:Getting the list of all the remaining footprints
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 375:Getting source tracks
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 379:Getting source zones
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 383:Getting source text items
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 387:Getting source drawing items
+09-02 19:28:38 root 332:updating GUI message: 'Replicating footprints'
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 861:Replicating footprints
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['Sensor2']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a8694786-390d-4966-84c1-9858ad347b2b
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9e223c07-9e5c-4ef7-91f4-ae39ed049d6a
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c395e0dd-73c8-45ff-a7e9-a1df13324108
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:b26b578c-a33c-494d-892a-81e82ed72c0d
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6ba3be40-20f3-45be-a515-5122667b5e36
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:dc8bb262-e389-4273-a1a4-7a3c7601672f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:829fefe5-97d6-467f-a48c-34aaf340aa71
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:7778ae86-d945-4f60-8494-13cec3a216a1
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:e5b20f8b-1c67-4eef-9e73-8c5aa8091446
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:09006371-0717-42a6-a93f-c0206b42708d
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:3150a9b4-0a41-4714-b7da-84ec2dd3b59e
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:2bc23ebd-f17f-4a85-9a1a-12067a5875cb
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:d67f59a2-999f-48db-9316-30656564485f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:df5b85f6-f135-419b-972a-70548ccef75b
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:cc82d4e4-938d-4a40-82a2-ace9893021b9
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:cd5222b4-c6de-42ef-afed-6078e60dfc3b
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6de46eee-7d93-454f-9ccf-1c1162b8806f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:238bb684-777b-4327-bf35-e19f50e5e088
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['Sensor3']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a8694786-390d-4966-84c1-9858ad347b2b
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:6037dd59-a525-4918-aef2-533575aa0537
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c395e0dd-73c8-45ff-a7e9-a1df13324108
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:e7c35db6-f98f-4335-9870-5eb9cb9550c5
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6ba3be40-20f3-45be-a515-5122667b5e36
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9f73fc9e-f650-4597-8661-f1c17b209680
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:829fefe5-97d6-467f-a48c-34aaf340aa71
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:d51b5a48-4ade-412f-9ffc-e84d08a8fa89
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:e5b20f8b-1c67-4eef-9e73-8c5aa8091446
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:304b418a-2549-4530-b070-1df937e01965
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:3150a9b4-0a41-4714-b7da-84ec2dd3b59e
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:80328657-36da-45b0-a2fc-ccfdb42988ef
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:d67f59a2-999f-48db-9316-30656564485f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:32bcff35-2445-4d93-a879-db6e118e4073
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:cc82d4e4-938d-4a40-82a2-ace9893021b9
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:b37fcfc7-4700-4e28-acc4-058df604734f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6de46eee-7d93-454f-9ccf-1c1162b8806f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:dcb07122-2a0f-42df-aa07-4a0aa2bb366c
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['Sensor4']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a8694786-390d-4966-84c1-9858ad347b2b
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:0c5082f5-4f71-4b35-973e-16e1f7cf5a24
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c395e0dd-73c8-45ff-a7e9-a1df13324108
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:cfe4071e-ea9b-4ef2-8e5c-24880d5aba10
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6ba3be40-20f3-45be-a515-5122667b5e36
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:4c61772c-bd1a-4974-8478-84373e7e1e88
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:829fefe5-97d6-467f-a48c-34aaf340aa71
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:b11c9bcf-84cb-445e-8d47-637791cd4203
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:e5b20f8b-1c67-4eef-9e73-8c5aa8091446
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:cd855f4e-ca10-414f-8793-e7f189147106
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:3150a9b4-0a41-4714-b7da-84ec2dd3b59e
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:84ddee16-7ecd-4609-9e90-73a819a102f0
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:d67f59a2-999f-48db-9316-30656564485f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9d66010f-7910-47c3-8a65-5aa537dc7f4c
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:cc82d4e4-938d-4a40-82a2-ace9893021b9
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f0214bc0-8876-4542-9a98-87e21bcc6c9e
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6de46eee-7d93-454f-9ccf-1c1162b8806f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:95688e63-01bb-4ad0-893f-4d97328f7ea1
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['Sensor5']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a8694786-390d-4966-84c1-9858ad347b2b
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:40643691-7476-4ec7-aaf4-adab16988a58
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c395e0dd-73c8-45ff-a7e9-a1df13324108
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:3fdfc390-4da4-417f-a1fd-c406582fe433
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6ba3be40-20f3-45be-a515-5122667b5e36
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:ad22ba0c-cb75-4841-891f-1679e8b602bd
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:829fefe5-97d6-467f-a48c-34aaf340aa71
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:3d84695a-64de-4f7a-99dc-25774e7163f6
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:e5b20f8b-1c67-4eef-9e73-8c5aa8091446
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f430c17e-5c43-4147-ac09-37d89eda9837
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:3150a9b4-0a41-4714-b7da-84ec2dd3b59e
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:d5bce59c-6cb7-4b96-ab49-2fbe95681248
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:d67f59a2-999f-48db-9316-30656564485f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:972c04e9-c511-4355-bd1f-30e4911b9b1a
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:cc82d4e4-938d-4a40-82a2-ace9893021b9
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:ecb27baf-c2c7-4d78-9f5b-250d608f36ed
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:6de46eee-7d93-454f-9ccf-1c1162b8806f
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5d3bf58b-19ee-451d-a3a9-1a5c6f1c091c
+09-02 19:28:38 root 332:updating GUI message: 'Replicating tracks'
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating tracks
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['Sensor2']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor2'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U2-INT_DRDY-Pad7)'), ('/MOSI', '/MOSI')]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['Sensor3']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor3'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U3-INT_DRDY-Pad7)'), ('/MOSI', '/MOSI')]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['Sensor4']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor4'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U4-INT_DRDY-Pad7)'), ('/MOSI', '/MOSI')]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['Sensor5']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor5'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('/MOSI', '/MOSI'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U5-INT_DRDY-Pad7)')]
+09-02 19:28:38 root 332:updating GUI message: 'Replicating zones'
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1079:Replicating zones
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['Sensor2']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor2'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U2-INT_DRDY-Pad7)'), ('/MOSI', '/MOSI')]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['Sensor3']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor3'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U3-INT_DRDY-Pad7)'), ('/MOSI', '/MOSI')]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['Sensor4']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor4'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U4-INT_DRDY-Pad7)'), ('/MOSI', '/MOSI')]
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['Sensor5']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['Sensor5'] :[('/CS1', '/CS1'), ('/SCK', '/SCK'), ('/MISO', '/MISO'), ('VDD', 'VDD'), ('GND', 'GND'), ('/MOSI', '/MOSI'), ('unconnected-(U1-INT_DRDY-Pad7)', 'unconnected-(U5-INT_DRDY-Pad7)')]
+09-02 19:28:38 root 332:updating GUI message: 'Replicating text'
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1168:Replicating text
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['Sensor2']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['Sensor3']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['Sensor4']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['Sensor5']
+09-02 19:28:38 root 332:updating GUI message: 'Replicating drawings'
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1219:Replicating drawings
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['Sensor2']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['Sensor3']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['Sensor4']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['Sensor5']
+09-02 19:28:38 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
